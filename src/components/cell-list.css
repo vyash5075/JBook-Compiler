@@ -1,0 +1,17 @@
+.cell-list {
+  margin: 0px 50px 50vh;
+}
+
+.react-draggable-transparent-selection .cell-list {
+  margin-bottom: 100vh;
+}
+
+.h1 {
+  text-align: center;
+  margin: 5vh 0;
+  font-size: 6vh;
+  word-spacing: 12%;
+  font-variant: inherit;
+  font-family: sans-serif;
+  font-weight: 700;
+}
